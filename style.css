@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    width: 100%;
+  }
+.container{
+    height: 100vh;
+    width: 100%;
+}
+.row {
+    height: 100%;
+}
+.kente-block {
+    height: 100px;
+}
+.green {
+    background-color: green;
+}
+.black {
+    background-color: black;
+
+  }
+
